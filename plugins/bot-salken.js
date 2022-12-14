@@ -4,8 +4,8 @@ import moment from 'moment-timezone'
 
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 	
-let info = `*Hallo!*👋🏻\nSaya adalah SilenceBOT, Silence adalah Sebuah Bot RPG yg dibuat khusus untuk bersenang² bersama.\nSaya juga adalah Bot yang bisa membantumu dengan banyak fitur berguna, klik tombol dibawah ini jika kamu ingin menggunakan bot!`
-let tem = `${moment.tz('Asia/Makassar').format('HH')}.${moment.tz('Asia/Makassar').format('mm')}.${moment.tz('Asia/Makassar').format('ss')} WITA`
+let info = `*Hallo!*👋🏻\nSaya adalah Alfarabotz, Alfarabotz adalah Sebuah Bot RPG yg dibuat khusus untuk bersenang² bersama.\nSaya juga adalah Bot yang bisa membantumu dengan banyak fitur berguna, klik tombol dibawah ini jika kamu ingin menggunakan bot!`
+let tem = `${moment.tz('Asia/Jakarta').format('HH')}.${moment.tz('Asia/Jakarta').format('mm')}.${moment.tz('Asia/Jakarta').format('ss')} WIB`
 let bottum = `https://telegra.ph/file/fa26b1b57eb59ce076d97.jpg`
 let wm = global.wm
 
