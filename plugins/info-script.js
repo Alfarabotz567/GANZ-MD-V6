@@ -22,10 +22,10 @@ let buttonMessage= {
 'mediaUrl':sig,
 'mediaType':2,
 'previewType':'pdf',
-'title':'𝗦𝗺𝗶𝗹𝗲𝘆𝗕𝗼𝘁𝘇~',
+'title':'Alfarabotz~',
 'body':titlebot,
 'thumbnail':await(await fetch(kled)).buffer(),
-'sourceUrl':'https://www.instagram.com/dvekgw'}},
+'sourceUrl':'https://www.instagram.com/irfaanabdulhafizh'}},
 'caption':info,
 'footer':botdate,
 'buttons':[
