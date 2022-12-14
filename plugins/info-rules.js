@@ -4,7 +4,7 @@ let info = `
 
 Baca Rulesnya ya kak😃
 
-©2022 SilenceBOT Official 
+©2022 Alfarabotz Official 
 `
 const sections = [
    {
