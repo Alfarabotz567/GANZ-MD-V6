@@ -6,12 +6,12 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 
 //------------ BIO OWNER 1
 let ppown1 = await conn.profilePictureUrl(adminn + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let admid = '628881663146'
+let admid = '6285624823115'
 let teksbio1 = `━━━━━━━━▢ *BIODATA* ▢━━━━━━━━
-*💌 Nama* : Smileyヅ
+*💌 Nama* : Irfaanヅ
 *🔥 Status : Developer BOT*
 *♂️ Gender* : Laki - laki
-*⛪ Agama* : Kristen Advent
+*🕌 Agama* : Islam
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [70.7%]
@@ -23,11 +23,11 @@ let teksbio1 = `━━━━━━━━▢ *BIODATA* ▢━━━━━━━�
 
 ───────[ SOSIAL MEDIA ]───────
 
-🥏 *WA* wa.me/628881663146
+🥏 *WA* wa.me/6285624823115
 `
-      conn.sendHydrated(m.chat, teksbio1, wm, ppown1, "https://wa.me/" + admid, "Chat Smileyヅ", null,null, [["Owner Kyami", '.owner3'], ['Menu', '.menu'],[null,null]], m)
+      conn.sendHydrated(m.chat, teksbio1, wm, ppown1, "https://wa.me/" + admid, "Chat Irfaanヅ", null,null, [["Owner Kyami", '.owner3'], ['Menu', '.menu'],[null,null]], m)
 }
 
-handler.command = /^(ownerdave)/i
+handler.command = /^(creator)/i
 
 export default handler
