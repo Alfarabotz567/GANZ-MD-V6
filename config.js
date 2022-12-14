@@ -111,8 +111,8 @@ global.author = '©Irfaan Official 来'
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 
 // INI JANGAN DI GANTI 
-global.thumb = 'https://telegra.ph/file/579113e790fe526d676cf.jpg' //Main Thumbnail 
-global.thumb2 = 'https://telegra.ph/file/08d0001275c10376b1861.jpg'
+global.thumb = 'https://telegra.ph/file/8dd6eff8019a74b4518e2.jpg' //Main Thumbnail 
+global.thumb2 = 'https://telegra.ph/file/8dd6eff8019a74b4518e2.jpg'
 global.thumbbc = 'https://telegra.ph/file/5fa7fcb5225c85f1cab25.jpg' //For broadcast
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
