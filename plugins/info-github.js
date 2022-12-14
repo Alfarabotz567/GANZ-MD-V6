@@ -4,12 +4,12 @@ AngelDark :
 https://github.com/CyexSynMD
 
 _Owner_
-DaveKgw :
-https://github.com/davekgw
-KyamiCyx :
-https://github.com/ShionMDv
-Ahmad :
-https://github.com/Dzox13524
+Alfarabotz :
+https://github.com/Alfarabotz567
+IrfaanOfc :
+https://github.com/Alfarabotz567
+MC15 :
+https://github.com
 
 `.trim()
 
