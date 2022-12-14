@@ -11,10 +11,10 @@ import moment from 'moment-timezone'
 //WAKTU BISA DI GANTI KE JAKARTA (WIB) /MAKASSAR (WITA)
 
 /*⫘⫘⫘⫘ WAKTU ⫘⫘⫘⫘⫘*/
-let witah = moment.tz('Asia/Makassar').format('HH')
-    let witam = moment.tz('Asia/Makassar').format('mm')
-    let witas = moment.tz('Asia/Makassar').format('ss')
-    let wktuwib = `${witah}H ${witam}M ${witas}S`
+let wibh = moment.tz('Asia/Jakarta').format('HH')
+    let wibm = moment.tz('Asia/Jakarta').format('mm')
+    let wibs = moment.tz('Asia/Jakarta').format('ss')
+    let wktuwib = `${wibh}H ${wibm}M ${wibs}S`
     
     let d = new Date(new Date + 3600000)
     let locale = 'id'
@@ -33,25 +33,25 @@ let witah = moment.tz('Asia/Makassar').format('HH')
     
 /*⫘⫘⫘⫘⫘ MEDIA SOSIAL ⫘⫘⫘⫘*/
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/imleviofc'
-global.sgh = 'https://github.com/davekgw'
-global.sgc = 'https://chat.whatsapp.com/FM7pIjOxQKOFqDsEVrDEdz'
+global.sig = 'https://instagram.com/irfaanabdulhafizh'
+global.sgh = 'https://github.com/Alfarabotz567'
+global.sgc = 'https://chat.whatsapp.com/KDnv1lxHQXhEsVJoX6wcDd'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285172446692'
-global.nomorown = '6285172446692' //Dave
-global.adminn = '6285172446692' //Dave //JANGAN DI GANTI BAGIAN INI KARNA ADA DI CREATOR, CREATOR2 & CREATOR3
-global.admin = '6285172446692' //Alvin /INI LAGI
-global.admin2 = '6285172446692' //Ahmad //INI JUGA
-global.namebot = 'LEVI 来'
-global.nameown = 'LEVI 来'
+global.nomorbot = '6281646829895'
+global.nomorown = '6285624823115' //Irfaan Official
+global.adminn = '6285624823115' //Irfaan //JANGAN DI GANTI BAGIAN INI KARNA ADA DI CREATOR, CREATOR2 & CREATOR3
+global.admin = '6281646829895' //Alfarabotz /INI LAGI
+global.admin2 = '6285643702814' //MC15 //INI JUGA
+global.namebot = 'Alfarabotz-MD 来'
+global.nameown = 'Irfaan Official 来'
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6285172446692'],
-  ['6285172446692', 'LEVI 来', true]
+  ['6281646829895'],
+  ['6285624823115', 'Irfaan Official 来', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,13 +99,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = 'LEVI 来' //Main Watermark
-global.wm2 = 'Created By LEVI 来'
-global.wm3 = '❁ LEVI 来'
+global.wm = 'Alfarabotz-MD 来' //Main Watermark
+global.wm2 = 'Created By Irfaan Official 来'
+global.wm3 = '❁ Alfarabotz-MD 来'
 global.botdate = `⫹⫺ Date : ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
 global.titlebot = '🌱 𝙍𝙋𝙂 | Whatsapp Bot'
-global.author = '©LEVI 来'
+global.author = '©Irfaan Official 来'
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
@@ -143,8 +143,8 @@ global.htjava = '𖥸'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = '© By LEVI 来'
-global.stickauth = `LEVI 来`
+global.stickpack = '© By Alfarabotz-MD 来'
+global.stickauth = `Irfaan Official 来`
 global.multiplier = 100 // The higher, The harder levelup
 
 /*⫘⫘⫘⫘ GLOBAL EMOJI ⫘⫘⫘⫘⫘*/
