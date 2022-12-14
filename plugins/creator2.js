@@ -17,8 +17,8 @@ let teksalvin = `━━━━━━━━▢ *BIODATA* ▢━━━━━━━�
 *🧮 Kelas* : 1 Smp
 *🧩 Hobby* : Recode Bot, Turu Brutal, Mikir gajelas
 *💬 Sifat* : Baik, menyukai kebebasan, 2 wajah, tydack ramah 
-*🗺️ Tinggal* : Indonesia, Jateng, Demak
-*❤️ Suka* : warnah pink, abu², waifu wangy:v, kucing peduli
+*🗺️ Tinggal* : Indonesia, Jabar, Tasikmalaya
+*❤️ Suka* : warnah biru, abu², waifu wangy:v, kucing peduli
 *💔 Benci* : anak alay, autis, anak epep, sok asik, bucin alay, tolol!
 
 *- - sᴋɪʟʟs: - -* 
