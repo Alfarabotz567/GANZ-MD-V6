@@ -1,7 +1,7 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
-let text = `*Hyy bruhhh*👋🏻\n\n*Saya SilenceBOT salken yaa!* 😆`
+let text = `*Hyy bruhhh*👋🏻\n\n*Saya Alfarabotz salken yaa!* 😆`
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Chat Owner', url: 'https://wa.me/6289631008798'}},
+    {index: 1, urlButton: {displayText: 'Chat Owner', url: 'https://wa.me/6285624823115'}},
     {index: 2, quickReplyButton: {displayText: 'Menu', id: '.menu'}},
     {index: 3, quickReplyButton: {displayText: 'RPG', id: '.? rpg'}}
 ]
